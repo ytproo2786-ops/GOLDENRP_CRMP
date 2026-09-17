@@ -2,9 +2,17 @@
     {
       "ip": "188.127.241.8",
       "port": 1163,
+      "x2": false,
+      "name": "Обычный | Dev",
+      "online": 1,
+      "maxonline": 1000
+    },
+    {
+      "ip": "188.127.241.8",
+      "port": 1163,
       "x2": true,
-      "name": "GOLDEN RP TEST",
+      "name": "Тестовый | Dev",
       "online": 0,
-      "maxonline": 0
+      "maxonline": 50
     }
  ]
